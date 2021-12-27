@@ -1,4 +1,4 @@
-# v2ray-heroku
+# heroray
 
 > 貌似新建的app有些需要科学访问，如果需要，请使用cloudflare worker CDN 套一层。
 
